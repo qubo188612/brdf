@@ -1,3 +1,4 @@
+这是六面光测非金属表面法线的程序
 The Disney BRDF Explorer is an application that allows the development and analysis
 of bidirectional reflectance distribution functions (BRDFs). It can load and plot 
 analytic BRDF functions (coded as snippets of OpenGL GLSL programs), measured
